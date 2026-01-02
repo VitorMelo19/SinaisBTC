@@ -1,0 +1,27 @@
+{
+  "id_sinal": "SINAL_20251228_024806",
+  "ativo": "BTC/USDT",
+  "timeframe": "5m",
+  "horario_analise": "02:48",
+  "estado": "INATIVO",
+  "mensagem": "Possibilidade de compra (74% confian\u00e7a). Aguarde confirma\u00e7\u00e3o.",
+  "status": "\ud83d\udfe2 COMPRAR",
+  "tipo_operacao": "COMPRA",
+  "probabilidade": "74%",
+  "forca_sinal": "BAIXO",
+  "risco": "ALTO",
+  "volatilidade_atual": "0.0004",
+  "info_tecnica": {
+    "probabilidade_numerica": 0.7355576157569885,
+    "volatilidade": 0.0004073619495833966,
+    "features_utilizadas": [
+      "retorno",
+      "amplitude",
+      "pos_fechamento",
+      "volume_relativo",
+      "diff_medias"
+    ],
+    "timestamp_modelo": "20251228_023336"
+  },
+  "salvado_em": "2025-12-28 02:48:08"
+}

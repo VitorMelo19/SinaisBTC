@@ -1,0 +1,56 @@
+{
+  "timestamp_treinamento": "20251228_023336",
+  "acuracia": 0.4666666666666667,
+  "n_amostras_teste": 15,
+  "classification_report": {
+    "0": {
+      "precision": 0.75,
+      "recall": 0.5,
+      "f1-score": 0.6,
+      "support": 12.0
+    },
+    "1": {
+      "precision": 0.14285714285714285,
+      "recall": 0.3333333333333333,
+      "f1-score": 0.2,
+      "support": 3.0
+    },
+    "accuracy": 0.4666666666666667,
+    "macro avg": {
+      "precision": 0.4464285714285714,
+      "recall": 0.41666666666666663,
+      "f1-score": 0.4,
+      "support": 15.0
+    },
+    "weighted avg": {
+      "precision": 0.6285714285714286,
+      "recall": 0.4666666666666667,
+      "f1-score": 0.5199999999999999,
+      "support": 15.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      6,
+      6
+    ],
+    [
+      2,
+      1
+    ]
+  ],
+  "modelo_info": {
+    "nome": "modelo_xgboost_btc_20251228_023336",
+    "tipo": "XGBClassifier",
+    "n_estimators": 150,
+    "max_depth": 5,
+    "learning_rate": 0.1
+  },
+  "features_utilizadas": [
+    "retorno",
+    "amplitude",
+    "pos_fechamento",
+    "volume_relativo",
+    "diff_medias"
+  ]
+}

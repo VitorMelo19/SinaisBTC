@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-12-28 02:48:06",
+  "estatisticas": {
+    "total_sinais": 0,
+    "sinais_ativos": 0,
+    "sinais_concluidos": 0,
+    "sinais_cancelados": 0,
+    "media_probabilidade": null,
+    "sinais_por_tipo": 0,
+    "sinais_por_forca": 0,
+    "taxa_sucesso": "0.0%"
+  }
+}

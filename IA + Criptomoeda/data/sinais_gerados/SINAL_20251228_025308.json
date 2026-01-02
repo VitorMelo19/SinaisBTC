@@ -1,0 +1,31 @@
+{
+  "id_sinal": "SINAL_20251228_025308",
+  "ativo": "BTC/USDT",
+  "timeframe": "5m",
+  "horario_analise": "02:53",
+  "estado": "ATIVO",
+  "mensagem": "\ud83d\udfe2 COMPRAR - FORTE (98% confian\u00e7a)",
+  "status": "\ud83d\udfe2 COMPRAR",
+  "tipo_operacao": "COMPRA",
+  "probabilidade": "98%",
+  "forca_sinal": "FORTE",
+  "risco": "BAIXO",
+  "volatilidade_atual": "0.0003",
+  "info_tecnica": {
+    "probabilidade_numerica": 0.9781897664070129,
+    "volatilidade": 0.0003463030408580767,
+    "features_utilizadas": [
+      "retorno",
+      "amplitude",
+      "pos_fechamento",
+      "volume_relativo",
+      "diff_medias"
+    ],
+    "timestamp_modelo": "20251228_023336"
+  },
+  "horario_entrada_sugerido": "02:58",
+  "horario_saida_estimado": "03:13",
+  "info_previsao": "IA prev\u00ea movimento em 10min",
+  "tempo_operacao_min": 15,
+  "salvado_em": "2025-12-28 02:53:09"
+}
