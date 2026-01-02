@@ -2,9 +2,7 @@
 fastapi==0.104.1
 uvicorn[standard]==0.24.0
 python-multipart==0.0.6
-
-# Banco de Dados
-sqlite3
+pydantic==2.5.0
 
 # IA e Processamento
 python-binance==1.0.19
@@ -16,4 +14,3 @@ joblib==1.3.2
 # Utilitários
 python-dotenv==1.0.0
 requests==2.31.0
-pydantic==2.5.0
